@@ -3,3 +3,7 @@ uvicorn
 python-multipart
 faster-whisper
 pydub
+sounddevice
+webrtcvad
+numpy
+requests
